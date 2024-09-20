@@ -52,7 +52,9 @@ The EDA focused on addressing the following key questions:
 
 <img width="1473" alt="Screenshot 2567-09-11 at 06 43 58" src="https://github.com/user-attachments/assets/e7c1d40f-4dd5-413a-b02e-56c4a2499d6c">
 
-You can explore the interactive HR Analytics Dashboard for further insights on HR and financial data visualization through Tableau:
+
+
+*_You can explore the interactive HR Analytics Dashboard for further insights on HR and financial data visualization through Tableau:_*
 
 [HR Analytics Dashboard - Tableau](https://public.tableau.com/app/profile/francis2283/viz/HR_Financial_Dashboard_Viz/HRANALYTICSDASHBOARD?publish=yes)
 
