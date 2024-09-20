@@ -1,8 +1,5 @@
 # HR Data Analysis Project
 
-## Project Overview
-The goal of this data analysis project is to provide insights into XYZ Company's HR performance by analyzing various HR datasets. The primary focus is to identify trends in employee attrition, offer data-driven recommendations, and gain a deeper understanding of how employee attrition relates to job satisfaction and educational attainment.
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -15,6 +12,9 @@ The goal of this data analysis project is to provide insights into XYZ Company's
 - [Dependencies](#dependencies)
 - [Contributors](#contributors)
 - [License](#license)
+
+## Project Overview
+The goal of this data analysis project is to provide insights into XYZ Company's HR performance by analyzing various HR datasets. The primary focus is to identify trends in employee attrition, offer data-driven recommendations, and gain a deeper understanding of how employee attrition relates to job satisfaction and educational attainment.
 
 ## Data Sources
 - **HR Data.xlsx**: The primary dataset used for this project, containing detailed information about employee performance, attrition, and the overall attrition rate within XYZ Company.
